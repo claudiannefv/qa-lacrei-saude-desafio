@@ -31,7 +31,7 @@ qa-lacrei-saude-desafio/
 │
 └── README.md # Este arquivo
 
-
+---
 
 ## ⚙️ Como Configurar o Ambiente de Testes
 
